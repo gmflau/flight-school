@@ -10,4 +10,4 @@ group :test do
   gem "webmock"
 end
 
-exit 1
+exit 0
