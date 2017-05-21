@@ -9,3 +9,5 @@ group :test do
   gem "rack-test"
   gem "webmock"
 end
+
+exit 1
